@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: system-ui;
+}
+body{
+    background-color: rgb(13, 10, 10);
+}
+.heading{
+    text-align: center;
+    color: aliceblue;
+    font-style: italic;
+    padding-top: 50px;
+}
+#bulb{
+    width: 12%;
+    height:200px;
+    margin: auto;
+    display: block;
+    margin-bottom: 40px;
+}
+div{
+    width: 100%;
+    text-align: center;
+}
+button{
+    height:40px ;
+    width:70px ;
+    border-radius:20px ;
+    background-color: rgb(236,71,0);
+    border: none;
+    color: white;
+    cursor: pointer;
+
+}
+
+
+    
+    
+
+
+
+    
+   
+    
